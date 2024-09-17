@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:BA:72:3A&stream=231230&extension=ts
+http://mag.abcdxyz.one:80/play/live.php?mac=00:1A:79:AF:5F:41&stream=194094&extension=ts
+##https://hs-cors.herokuapp.com/http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/162138.ts
+##https://hs-cors.herokuapp.com/http://aflaxtv.xyz:8080/live/F21312/b9181c9b/162138.ts
