@@ -4,6 +4,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
+http://filex.tv:8080/gtr/gtr/302264
 https://zeestb.cdn77.icu/love4all.php?id=189665&extension=ts
 https://nonton.site:8443/live/ekos/748344x/1845.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
