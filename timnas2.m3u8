@@ -4,5 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://eu58.xyz:8080/play/live.php?mac=00:1A:79:00:45:CD&stream=55280&extension=ts
-##http://iptvtree.net:8080/cinepk2021/F37CXJnaEDN203udnch/162138
+http://iptvtree.net:8080/cinepk2021/F37CXJnaEDN203udnch/162138
