@@ -2,6 +2,4 @@
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
-http://api.tvtop.cc:80/d0d0033cf9dc/8927590164/147856
-#http://eu58.xyz:8080/play/live.php?mac=00:1A:79:00:45:CD&stream=550083&extension=ts
-#http://filex.tv:8080/hamayun/khan15/302301
+http://filex.tv:8080/hamayun/khan15/302301
